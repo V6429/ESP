@@ -4,6 +4,8 @@
 
 **BOLD TEXT**
 
-![Broken image](/images/logo.png)
+
+image here
+![Broken image](/images/logo.png =100x100)
 
 
