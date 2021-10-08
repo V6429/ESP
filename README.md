@@ -2,10 +2,15 @@
 
 * all codes here *
 
-**BOLD TEXT**
+**TODO**
+1. xxxxx
+2. xxxxx
+3. xxxxx
+
 
 
 image here
-![Broken image](/images/logo.png = 100 x 100)
+
+![Broken image](/images/logo.png)
 
 
