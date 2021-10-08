@@ -6,6 +6,6 @@
 
 
 image here
-![Broken image](/images/logo.png)
+![Broken image](/images/logo.png = 100 x 100)
 
 
